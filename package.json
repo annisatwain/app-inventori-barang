@@ -1,0 +1,15 @@
+{
+  "name": "app_inventori_barang",
+  "version": "1.0.0",
+  "description": "Aplikasi inventori barang sederhana",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./css/input.css -o ./css/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haris",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
